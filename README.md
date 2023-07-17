@@ -12,7 +12,7 @@ Before running, you have to set the correct name of the serial port interface.
 ```bash
 $ mkdir build
 $ cd build
-$ cmake 
+$ cmake ..
 $ make
 $ ./HoverboardSerial
 ```
